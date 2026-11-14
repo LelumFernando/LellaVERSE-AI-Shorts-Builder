@@ -1,0 +1,57 @@
+LellaVERSE AI Shorts Builder End-User License Agreement (EULA)
+
+Copyright (c) 2026 Lelum Anuradha Fernando (LellaVERSE).
+All Rights Reserved.
+
+NOTICE TO USER: PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING, INSTALLING,
+OR USING THE LELLAVERSE AI SHORTS BUILDER SOFTWARE ("SOFTWARE"), YOU AGREE TO BE
+BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
+
+1. PROPRIETARY RIGHTS & GRANT OF LICENSE
+The Software, including its source code, architecture, branding, logos, graphics,
+and documentation, is the proprietary property of Lelum Anuradha Fernando ("Licensor").
+Subject to the terms of this Agreement, Licensor grants you a personal, revocable,
+non-exclusive, non-transferable license to use the Software for personal and creator
+video production purposes.
+
+2. RESTRICTIONS
+You may NOT:
+a) Sell, rent, lease, sublicense, distribute, or commercially resell the Software binaries
+   or source code without prior written authorization from the Licensor.
+b) Reverse engineer, decompile, or disassemble the proprietary algorithms or workflow
+   mechanisms of the Software, except as permitted by applicable law.
+c) Remove, alter, or obscure any copyright, trademark, logo, or proprietary notices
+   contained in or on the Software.
+d) Use the Software for any unlawful, defamatory, or abusive purposes.
+
+3. THIRD-PARTY COMPONENTS & SERVICES
+The Software integrates, links to, or utilizes certain third-party open-source components
+and APIs, including but not limited to:
+- FFmpeg (LGPL / GPL)
+- OpenCV (Apache 2.0)
+- Streamlit (Apache 2.0)
+- Google Gemini API (Google Cloud Terms of Service)
+- Whisper / Faster-Whisper / CTranslate2 (MIT / Apache 2.0)
+- Python and standard libraries (PSF License)
+- Open Font License fonts (OFL)
+
+The Licensor does NOT claim ownership of any third-party libraries, Google Gemini,
+FFmpeg, or associated external services. All third-party trademarks and copyrights
+belong to their respective owners. Please refer to THIRD_PARTY_NOTICES.md for complete
+third-party attribution and license terms.
+
+4. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, ACCURACY, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. CONTACT
+For inquiries, licensing, or collaborations:
+Creator: Lelum Anuradha Fernando
+Brand: LellaVERSE
+GitHub: https://github.com/LelumFernando
+YouTube: https://www.youtube.com/@LellaVerse
+Facebook: https://web.facebook.com/fb.lellaverse

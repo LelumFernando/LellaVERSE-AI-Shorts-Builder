@@ -1,0 +1,70 @@
+# ======================================================================
+# LellaVERSE AI Shorts Builder - .gitignore
+# Copyright (c) 2026 Lelum Anuradha Fernando (LellaVERSE)
+# ======================================================================
+
+# --- Security & Credentials ---
+.env
+.env.*
+*key*.json
+*secret*.json
+credentials.json
+token.json
+api_keys.txt
+
+# --- Python Virtual Environments & Bytecode ---
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# --- Personal Media & Temporary Work Directories ---
+workspace/*
+!workspace/.gitkeep
+temp/*
+!temp/.gitkeep
+temp/uploads/*
+outputs/*
+!outputs/.gitkeep
+downloads/
+recordings/
+cache/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.part
+*.wav
+*.mp3
+*.flac
+
+# --- Subtitle Test Outputs ---
+outputs/*.ass
+outputs/*.srt
+temp/*.ass
+temp/*.srt
+
+# --- Distribution & Build Artifacts ---
+dist/
+build/
+*.spec
+*.egg-info/
+LellaVERSE_Final/
+LellaVERSE_Backups/
+Output/
+_internal/
+
+# --- IDE & OS Metadata ---
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log

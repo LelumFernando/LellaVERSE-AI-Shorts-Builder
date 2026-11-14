@@ -1,0 +1,8 @@
+streamlit>=1.50
+yt-dlp
+google-genai>=3.0
+opencv-python>=4.9
+numpy>=2.0
+# faster-whisper   (optional offline fallback: pip install faster-whisper)
+fonttools
+pillow
